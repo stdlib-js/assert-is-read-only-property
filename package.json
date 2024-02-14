@@ -1,6 +1,6 @@
 {
   "name": "@stdlib/assert-is-read-only-property",
-  "version": "0.1.1",
+  "version": "0.2.0",
   "description": "Test if an object's own property is read-only.",
   "license": "Apache-2.0",
   "author": {
@@ -37,7 +37,7 @@
     "url": "https://github.com/stdlib-js/stdlib/issues"
   },
   "dependencies": {
-    "@stdlib/utils-property-descriptor": "^0.1.1"
+    "@stdlib/utils-property-descriptor": "^0.2.0"
   },
   "devDependencies": {
     "@stdlib/assert-is-boolean": "^0.1.1",
